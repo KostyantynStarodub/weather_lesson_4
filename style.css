@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital@1&display=swap');
+body{
+    background-color: wheat;
+}
+table{
+    height: 150px;
+    width: 600px;
+}
+.row_1{
+    background-color: deepskyblue;
+    color: white;
+    font-size: 18px;
+}
+img{
+    width: 120px;
+    height: 120px;
+}
+.row_2 td:hover{
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    transition: all 2s;
+    background-color: coral;
+}
+tr{
+    font-family: 'Bona Nova', serif;
+    font-size: 30px;
+}
+.row_3{
+    background-color: white;
+}
